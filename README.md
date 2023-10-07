@@ -1,0 +1,1 @@
+# The number of steps from the knight to the border in chess
