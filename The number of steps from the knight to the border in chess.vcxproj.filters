@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BFS.cpp">
+    <ClCompile Include="DFS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
