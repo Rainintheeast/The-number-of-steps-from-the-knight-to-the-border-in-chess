@@ -26,6 +26,7 @@ public:
 int dx[] = { 2, 2, -2, -2, 1, 1, -1, -1 };
 int dy[] = { 1, -1, 1, -1, 2, -2, 2, -2 };
 
+/这里应用递归实现/
 int DFS(ChessBoard& board, int x, int y, int steps) {
     if (board.isOnBoundary(x, y)) {
         return steps;
